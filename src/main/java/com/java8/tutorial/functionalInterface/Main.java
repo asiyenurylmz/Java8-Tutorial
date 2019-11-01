@@ -1,4 +1,4 @@
-package com.java8.tutorial.functionalinterface;
+package com.java8.tutorial.functionalInterface;
 
 public class Main {
 	public static void main(String[] args) {

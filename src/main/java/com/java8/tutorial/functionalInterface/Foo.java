@@ -1,4 +1,4 @@
-package com.java8.tutorial.functionalinterface;
+package com.java8.tutorial.functionalInterface;
 
 @FunctionalInterface
 public interface Foo {
